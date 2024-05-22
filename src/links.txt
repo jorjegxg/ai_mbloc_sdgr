@@ -1,0 +1,10 @@
+OpenCV datasets for low-power devices:
+(??? nefunctional?) https://github.com/methylDragon/opencv-python-reference/tree/master/Resources/Models/mask-rcnn-coco
+https://opencv.org/introduction-to-the-coco-dataset/
+
+OpenCV (bun):
+https://studentprojectshub.blogspot.com/2020/12/object-detection-using-opencv-and.html
+
+DroidCam:
+https://www.dev47apps.com/droidcam/windows/
+https://www.dev47apps.com/droidcam/connect/#:~:text=In%20the%20DroidCam%20PC%20client,OK%20to%20allow%20the%20connection.
